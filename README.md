@@ -17,6 +17,8 @@ npm start
 ```
 You can then search for a name or user, or click one of the headers to sort the columns.
 
+![Image description](/public/Employee.png)
+
 
 
 
